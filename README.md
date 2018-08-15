@@ -11,9 +11,9 @@ CSCI-4360 | Operating Systems | link
 
 ## Architecture (SOA)
 ### ARCH Architecture
-No books posted yet!
+No books have been posted yet! Make a pull request or send a book to rpitextbooks@gmail.com
 ### LGHT Lighting
-No books posted yet!
+No books have been posted yet! Make a pull request or send a book to rpitextbooks@gmail.com
 
 
 ## Engineering (SOE)
