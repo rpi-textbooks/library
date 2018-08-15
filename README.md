@@ -4,9 +4,8 @@
 #### Format
 Course Code | Course Title  | Book Download Link
 --- | --- | ---
-CSCI-1200 | Data Structures | link
-CSCI-2400 | Algorithms | link
-CSCI-4360 | Operating Systems | link
+CSCI-1200 | Computer Organization | http://dl4.libgen.io/get.php?md5=9C7FD6F33E4F6D4502645E78C419C1ED&key=HVW14A6R6OKQHFRP
+CSCI-2400 | Algorithms | http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf
 
 
 ## Architecture (SOA)
@@ -58,8 +57,6 @@ No books have been posted yet! Make a pull request or send a book to rpitextbook
 No books have been posted yet! Make a pull request or send a book to rpitextbooks@gmail.com
 
 
-
-
 ## Humanities and Social Sciences (Social Sciences Courses) (HSSS)
 ### COGS Cognitive Science
 No books have been posted yet! Make a pull request or send a book to rpitextbooks@gmail.com
@@ -73,7 +70,6 @@ No books have been posted yet! Make a pull request or send a book to rpitextbook
 No books have been posted yet! Make a pull request or send a book to rpitextbooks@gmail.com
 ### STSS Science and Technology Studies (Social Sciences Courses)
 No books have been posted yet! Make a pull request or send a book to rpitextbooks@gmail.com
-
 
 
 
@@ -99,7 +95,10 @@ No books have been posted yet! Make a pull request or send a book to rpitextbook
 ### CISH Computer Science at Hartford
 No books have been posted yet! Make a pull request or send a book to rpitextbooks@gmail.com
 ### CSCI Computer Science
-No books have been posted yet! Make a pull request or send a book to rpitextbooks@gmail.com
+Course Code | Course Title  | Book Download Link
+--- | --- | ---
+CSCI-1200 | Computer Organization | http://dl4.libgen.io/get.php?md5=9C7FD6F33E4F6D4502645E78C419C1ED&key=HVW14A6R6OKQHFRP
+CSCI-2400 | Algorithms | http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf
 ### ISCI Interdisciplinary Science
 No books have been posted yet! Make a pull request or send a book to rpitextbooks@gmail.com
 ### ERTH Earth and Environmental Science
