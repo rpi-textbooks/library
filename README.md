@@ -4,8 +4,8 @@
 #### Format
 Course Code | Course Title  | Book Download Link
 --- | --- | ---
-CSCI-1200 | Computer Organization | http://dl4.libgen.io/get.php?md5=9C7FD6F33E4F6D4502645E78C419C1ED&key=HVW14A6R6OKQHFRP
-CSCI-2400 | Algorithms | http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf
+CSCI-2500 | Computer Organization | http://dl4.libgen.io/get.php?md5=9C7FD6F33E4F6D4502645E78C419C1ED&key=HVW14A6R6OKQHFRP
+CSCI-4020 | Algorithms | http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf
 
 
 ## Architecture (SOA)
@@ -97,8 +97,8 @@ No books have been posted yet! Make a pull request or send a book to rpitextbook
 ### CSCI Computer Science
 Course Code | Course Title  | Book Download Link
 --- | --- | ---
-CSCI-1200 | Computer Organization | http://dl4.libgen.io/get.php?md5=9C7FD6F33E4F6D4502645E78C419C1ED&key=HVW14A6R6OKQHFRP
-CSCI-2400 | Algorithms | http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf
+CSCI-2500 | Computer Organization | http://dl4.libgen.io/get.php?md5=9C7FD6F33E4F6D4502645E78C419C1ED&key=HVW14A6R6OKQHFRP
+CSCI-4020 | Algorithms | http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf
 ### ISCI Interdisciplinary Science
 No books have been posted yet! Make a pull request or send a book to rpitextbooks@gmail.com
 ### ERTH Earth and Environmental Science
